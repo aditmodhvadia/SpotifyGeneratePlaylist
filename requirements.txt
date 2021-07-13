@@ -1,4 +1,4 @@
 google-auth-oauthlib==0.4.2
-google-api-python-client==1.12.8
+google-api-python-client==2.13.0
 youtube_dl==2021.1.8
 requests==2.25.1
